@@ -1,4 +1,4 @@
-## Create Javascript GUI Application (.exe) using Electron
+## Create JavaScript GUI Application (.exe) using Electron
 
 No need to run `npm install` just,
 
